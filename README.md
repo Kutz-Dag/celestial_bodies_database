@@ -1,6 +1,6 @@
-# Creating a Database of a fantasy Universe using SQL
+# Creating a fantasy celestial_bodies_database using SQL
 
 ## Description
 
-This was a freeCodeCamp Project. The aim was to create a datbase using postgreSQL and Bash Scripting.
+This was a freeCodeCamp Project. The aim was to create a database using PostgreSQL and Bash Scripting.
 
